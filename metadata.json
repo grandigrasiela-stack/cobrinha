@@ -1,0 +1,6 @@
+{
+  "name": "Serpentis — Jogo da Cobrinha",
+  "description": "Jogo clássico estilo Snake com 6 níveis progressivos, obstáculos dinâmicos, controles por teclado, deslize e toque, e ranking persistente no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
